@@ -1,4 +1,4 @@
-# credit_scoring
+# ML model for predicting the probability of a customer default
 Machine learning model for predicting credit default
 
 Task:
